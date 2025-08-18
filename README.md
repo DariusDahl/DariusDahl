@@ -23,7 +23,7 @@ Hello 👋 I am Darius, a senior at Marquette University pursuing a Bachelor of 
 - GitHub, Visual Studio, LaTeX, Ollama, RISC-V
 
 ## 3. Current Projects
-### Project Future *(January 2025 – Present)*  
+### Project Future *(January 2025 – May 2025)*  
 - Spearheading Agile project development and coordinating cross-functional collaboration with team members and external partners to establish technical requirement and project goals.
 - Leading the design and implementation of a scalable database solution for student and teacher accessibility, ensuring seamless integration and functionality.
 
@@ -47,20 +47,20 @@ Hello 👋 I am Darius, a senior at Marquette University pursuing a Bachelor of 
 
 ## 5. Teaching & Leadership
 
-### Marquette University Tutor *(September 2024 – Present)*
+### Marquette University Tutor *(September 2024 – May 2025)*
 - Mentoring students in computer science fundamentals and providing structured guidance to improve debugging skills, code efficiency, and analytical reasoning.  
 - Encouraging independent learning by promoting logical thinking, problem-solving strategies, and best coding practices.
 
-### ACM Programming Competition Proctor *(April 2024 – Present)*
+### ACM Programming Competition Proctor *(April 2024 – April 2025)*
 - Enforcing competition rules and ensuring integrity by monitoring participants while assisting with debugging and problem-solving strategies.  
 - Supporting the [Marquette ACM Competition](https://mu.acm.org/competition) by maintaining competition fairness.
 
 ## 6. Honors & Recognitions
 
-### Upsilon Pi Epsilon (UPE) Honor Society *(May 2024 – Present)*
+### Upsilon Pi Epsilon (UPE) Honor Society *(Inducted May 2024)*
 - Recognized for outstanding academic achievement in computing and information disciplines.
 
-### Sigma Pi Sigma (SPS) Honor Society *(April 2024 – Present)* 
+### Sigma Pi Sigma (SPS) Honor Society *(Inducted April 2024)* 
 - Recognized for outstanding academic achievement in physics and astronomy.
 
 ## 7. Contact Information
