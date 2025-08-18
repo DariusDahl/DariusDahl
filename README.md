@@ -51,7 +51,7 @@ Hello 👋 I am Darius, a senior at Marquette University pursuing a Bachelor of 
 - Mentoring students in computer science fundamentals and providing structured guidance to improve debugging skills, code efficiency, and analytical reasoning.  
 - Encouraging independent learning by promoting logical thinking, problem-solving strategies, and best coding practices.
 
-### ACM Programming Competition Proctor *(April 2024 – April 2025)*
+### ACM Programming Competition Proctor *(April 2024 & April 2025)*
 - Enforcing competition rules and ensuring integrity by monitoring participants while assisting with debugging and problem-solving strategies.  
 - Supporting the [Marquette ACM Competition](https://mu.acm.org/competition) by maintaining competition fairness.
 
