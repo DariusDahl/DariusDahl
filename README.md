@@ -12,7 +12,7 @@
 7. [Contact Information](#contact-information)
 
 ## 1. Introduction
-Hello 👋 my name is Darius. I am a recent Marquette University graduate with a B.S. in Computer Science and a minor in Physics. I am passionate about building real-world software using thoughtful design, collaborative development practices, and a love for problem-solving.
+Hello 👋 my name is Darius! I am a recent Marquette University graduate with a B.S. in Computer Science and a minor in Physics. I am passionate about building real-world software using thoughtful design, collaborative development practices, and a love for problem-solving.
 
 I have built a strong foundation across software development, programming languages, and applied mathematics, and along the way earned induction into Upsilon Pi Epsilon and Sigma Pi Sigma honor societies. During my time at Marquette, I also supported underclassmen as a computer science tutor and helped proctor ACM programming competitions.
 
