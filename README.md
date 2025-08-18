@@ -12,7 +12,11 @@
 7. [Contact Information](#contact-information)
 
 ## 1. Introduction
-Hello 👋 I am Darius, a senior at Marquette University pursuing a Bachelor of Science in Computer Science and a minor in Physics. I am passionate about solving complex problems through software development, artificial intelligence, and data-driven solutions. With a strong foundation in algorithmic thinking, database management, and full-stack development, I thrive in environments that demand creativity, efficiency, and collaboration.
+Hello 👋 my name is Darius. I am a recent Marquette University graduate with a B.S. in Computer Science and a minor in Physics. I am passionate about building real-world software using thoughtful design, collaborative development practices, and a love for problem-solving.
+
+I have built a strong foundation across software development, programming languages, and applied mathematics, and along the way earned induction into Upsilon Pi Epsilon and Sigma Pi Sigma honor societies. During my time at Marquette, I also supported underclassmen as a computer science tutor and helped proctor ACM programming competitions.
+
+I am especially interested in AI, intelligent systems, and cross-functional teamwork, and I am currently looking for opportunities where I can contribute to impactful software projects and continue growing as a developer.
 
 ## 2. Skills
 
