@@ -36,7 +36,7 @@ I am especially interested in AI, intelligent systems, and cross-functional team
 - Developing a modern, interactive tool for creating guitar tablature through a virtual fretboard interface.  
 - Enables users to add notes, insert pauses, undo actions, and (soon) play back tabs with real audio samples.  
 - Inspired by platforms like *tab-maker.com*, with the goal of providing an intuitive and feature-rich experience for guitarists.  
-- **Live App:** <a href="https://guitar-tab-maker.streamlit.app/" target="_blank" rel="noopener noreferrer">Guitar Tab Maker</a>  
+- **Live App:** [Guitar Tab Maker](https://guitar-tab-maker.streamlit.app/)  
 - **Repository:** [Guitar Tab Maker Repository](https://github.com/DariusDahl/guitar-tab-maker)  
 
 ### Simple Computer Games *(Ongoing)*  
