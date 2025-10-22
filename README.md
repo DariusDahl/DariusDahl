@@ -27,9 +27,10 @@ I am especially interested in AI, intelligent systems, and cross-functional team
 - GitHub, Visual Studio, LaTeX, Ollama, RISC-V
 
 ## 3. Current Projects
-### Project Future *(January 2025 – May 2025)*  
-- Spearheading Agile project development and coordinating cross-functional collaboration with team members and external partners to establish technical requirement and project goals.
-- Leading the design and implementation of a scalable database solution for student and teacher accessibility, ensuring seamless integration and functionality.
+
+### Data Annotation Tech *(March 2024 – Present)*
+- Training AI chatbots to interpret and generate code, analyze images, summarize text, and solve mathematical problems to improve model accuracy and efficiency.
+- Conducting quality assurance on AI-generated outputs, ensuring logical consistency and relevance in natural language processing.
 
 ### Simple Computer Games *(Ongoing)*  
 - Developing small-scale interactive computer games to refine game design principles, AI-driven mechanics, and user experience optimization.  
@@ -37,9 +38,9 @@ I am especially interested in AI, intelligent systems, and cross-functional team
 
 ## 4. Projects & Experience
 
-### Data Annotation Tech *(March 2024 – Present)*
-- Training AI chatbots to interpret and generate code, analyze images, summarize text, and solve mathematical problems to improve model accuracy and efficiency.
-- Conducting quality assurance on AI-generated outputs, ensuring logical consistency and relevance in natural language processing.
+### Project Future *(January 2025 – May 2025)*  
+- Spearheaded Agile project development and coordinated cross-functional collaboration with team members and external partners to establish technical requirements and project goals.
+- Led the design and implementation of a scalable database solution for student and teacher accessibility, ensuring seamless integration and functionality.
 
 ### Ollama *(September 2024 – December 2024)*
 - Improved command functionality in the [Ollama open-source project](https://ollama.com/) by developing new aliases (‘/quit’ for ‘/exit’ and ‘/bye’) and implementing structured logging for generated responses.
