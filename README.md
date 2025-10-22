@@ -32,6 +32,13 @@ I am especially interested in AI, intelligent systems, and cross-functional team
 - Training AI chatbots to interpret and generate code, analyze images, summarize text, and solve mathematical problems to improve model accuracy and efficiency.
 - Conducting quality assurance on AI-generated outputs, ensuring logical consistency and relevance in natural language processing.
 
+### Guitar Tab Maker *(April 2025 - Present)*
+- Developing a modern, interactive tool for creating guitar tablature through a virtual fretboard interface.  
+- Enables users to add notes, insert pauses, undo actions, and (soon) play back tabs with real audio samples.  
+- Inspired by platforms like *tab-maker.com*, with the goal of providing an intuitive and feature-rich experience for guitarists.  
+- **Live App:** <a href="https://guitar-tab-maker.streamlit.app/" target="_blank" rel="noopener noreferrer">Guitar Tab Maker</a>  
+- **Repository:** [Guitar Tab Maker Repository](https://github.com/DariusDahl/guitar-tab-maker)  
+
 ### Simple Computer Games *(Ongoing)*  
 - Developing small-scale interactive computer games to refine game design principles, AI-driven mechanics, and user experience optimization.  
 - **Repository:** [Game Development Project Sync](https://github.com/DariusDahl/Game-Development-Project-Sync)
