@@ -21,10 +21,10 @@ I am especially interested in AI, intelligent systems, and cross-functional team
 ## 2. Skills
 
 ### 2.1 Languages
-- Python, SQL, R, Java, HTML, CSS, JavaScript, C, C#
+- Python, SQL, Java, C, HTML, CSS, JavaScript, R
 
 ### 2.2 Tools
-- GitHub, Visual Studio, LaTeX, Ollama, RISC-V
+- GitHub, Visual Studio Code, MySQL Workbench, LaTeX, Ollama, RISC-V
 
 ## 3. Current Projects
 
